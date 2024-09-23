@@ -79,15 +79,18 @@ python -m venv venv
 
 # Activar el entorno virtual (Linux/Mac)
 source venv/bin/activate
-
-# Para desactivar el entorno virtual (Windows/Linux/Mac)
-deactivate
 ```
 
 Luego, instala las dependencias requeridas para ejecutar el proyecto:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Al finalizar la ejecución del proyecto, para desactivar el entorno virtual, ejecutar el siguiente comando:
+```bash
+# Para desactivar el entorno virtual (Windows/Linux/Mac)
+deactivate
 ```
 
 ### 4. Configura la Conexión a la Base de Datos
