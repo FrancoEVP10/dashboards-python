@@ -1,0 +1,32 @@
+body {
+    background-color: #f8f9fa;
+  }
+  h1 {
+    margin-bottom: 30px;
+  }
+  .section {
+    padding: 60px 0;
+  }
+  .navbar-custom {
+    background-color: #007bff;
+  }
+  .navbar-custom .navbar-brand,
+  .navbar-custom .nav-link {
+    color: white;
+  }
+  .footer {
+    background-color: #007bff;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  .chart-title {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .table th {
+    text-align: center; /* Centra los encabezados de la tabla */
+  }
+  .table td {
+    vertical-align: middle; /* Centra verticalmente el contenido de las celdas */
+  }
